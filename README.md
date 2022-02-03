@@ -1,6 +1,6 @@
 # Strings searching
 
-This program find specific strings in a large text.
+This program find specific strings in a large text, by several concurrent matchers.
 
 The flow of the code is as follows:
 
